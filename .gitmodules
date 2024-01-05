@@ -1,0 +1,3 @@
+[submodule "portfolio-resources"]
+    path = portfolio-resources
+    url = https://github.com/example/repository.git
